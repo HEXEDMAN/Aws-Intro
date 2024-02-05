@@ -1,4 +1,2 @@
 # AWS - INTRO
 
-
-asdfdsfsd
